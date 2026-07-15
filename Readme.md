@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Hi, I am Athar Shaikh <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Assistant+Professor+%E2%80%A2+Pharmacy;PhD+Scholar+%40+SVKM+NMIMS+GU;Pharmaceutical+Researcher;Former+Full+Stack+Developer;Former+Quality+Assurance+Officer)](https://git.io/typing-svg)
 
 <div align="center" width="50">
 
