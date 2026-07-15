@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assistant+Professor+%E2%80%A2+Pharmacy;PhD+Scholar+%40+SVKM+NMIMS+GU;Pharmaceutical+Researcher;Former+Full+Stack+Developer;Former+Quality+Assurance+Officer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Assistant+Professor+%E2%80%A2+PharmaceuticalScience;PhD+Scholar+%40+SVKM+NMIMS+GU;Pharmaceutical+Researcher;Former+Full+Stack+Developer;Former+Quality+Assurance+Officer&center=true&width=500&height=50"></a>
 </p>
 
 
